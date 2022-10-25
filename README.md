@@ -4,4 +4,4 @@
 <p>de envios em TOTAL</p>
 <h3>Video de exemplo</h3>
 <p>Video acelerado em 6x</p>
-<video src="docs/promo.mp4"></video>
+https://github.com/Chrisouza/OmegleBuzzrBOT/blob/main/docs/promo.mp4
